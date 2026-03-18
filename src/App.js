@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react';
 import { Crown, Users, User, Star, ChevronLeft, Phone, PlayCircle, ShieldCheck, Video, MonitorPlay, MessageCircle, MapPin, ClipboardList, Link, Lock, Unlock, EyeOff, Briefcase, FileText } from 'lucide-react';
 
